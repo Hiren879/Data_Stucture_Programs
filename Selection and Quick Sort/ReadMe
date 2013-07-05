@@ -1,0 +1,6 @@
+There are 2 CPP files and one INPUT file which contains integers.
+You should type just "input" after entering the file name at command line.
+
+Example:-
+Compile: g++ selection.CPP -o selection
+Run:	./selection input

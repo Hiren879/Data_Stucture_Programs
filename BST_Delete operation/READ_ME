@@ -1,0 +1,9 @@
+1. All cases of possible tree are coverd because we are using randomization.
+
+2. If tree is right skewed then it will delete nothing in case of in-order predecessor (largest element from left sub-tree).
+
+3. If tree is left skewed then it will delete nothing in case of in-order successor (smallest element from right sub-tree).
+
+4. Give input file from command line named "input" only. (no extension like .txt)
+
+5. Run program using "g++ btree.cpp" for compilation and then "./a.out input" to run it.

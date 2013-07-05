@@ -1,0 +1,7 @@
+1. Take input from command line. Provide file name as "input" only and not like "input.txt".
+
+2. On running the program, it will print original array, heap(level wise), and each iteration of deletion.
+
+3. Then after deletion it will show sorted array.
+
+4. After these all, you can either see the smallest element of your choice or Median of array(special case is included).

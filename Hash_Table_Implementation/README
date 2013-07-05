@@ -1,0 +1,7 @@
+Compile from command line with g++ <filename.cpp>
+
+input is taken as "./a.out names"
+
+Program has two functionality
+1. Saperate chaining
+2. open addressing with replacement 

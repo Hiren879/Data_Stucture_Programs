@@ -1,0 +1,6 @@
+Run on command line with a file name as an argument. (Don'y use like "input.txt"')
+I have provided two input files.
+1. input -> wihch is not a bipertrite graph
+2. input1 -> which is a bipertrite graph
+
+So you can check both the input file for bipertrite condition.

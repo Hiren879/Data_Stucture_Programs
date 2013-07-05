@@ -1,0 +1,4 @@
+Non-recursive pre-order and Level-wise traversal both are implemented in one program iteself.
+Input file is taken from command line named "thisfile" attached in this zip.
+Complie it using g++ on Ubuntu.
+then run giving input file name on command line.

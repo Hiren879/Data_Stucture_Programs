@@ -1,0 +1,11 @@
+Name : Savalia Hiren Manubhai
+ID : 201212024
+
+How to complie ?
+	Use GCC compiler for compilation.
+	G++ <FileNamw>.cpp
+	To Run the file enter
+	./a.out <path of the text file> (one can just drag and drop the file into command line)
+
+Work Flow :
+	It will take 10, 3 digit numbers from the the file “in.txt” and sort it using Radix Sort and it will print the each pass i.e. Here we have 3 digit numbers so 3 passes will be there. And finally we will get the sorted array.
